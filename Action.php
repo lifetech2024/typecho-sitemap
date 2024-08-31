@@ -1,5 +1,5 @@
 <?php
-date_default_timezone_set('Asia/Shanghai'); 
+date_default_timezone_set('Asia/Shanghai'); // 时区
 class Sitemap_Action extends Typecho_Widget implements Widget_Interface_Do
 {
 	public function action()
