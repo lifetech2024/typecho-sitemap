@@ -8,4 +8,4 @@
 
 1.在代码第36行和第60行，把+08\:00更改。（如设置为东欧标准时间，把+08\:00改为+02\:00）
 
-2.插入date_default_timezone_set('Asia/Shanghai'); 
+2.插入date_default_timezone_set('');         *注：('')中填写php时区名称*
