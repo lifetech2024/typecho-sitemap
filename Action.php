@@ -1,5 +1,7 @@
 <?php
-date_default_timezone_set('Asia/Shanghai'); // 时区
+// 设置默认时区为中国标准时区
+date_default_timezone_set('Asia/Shanghai'); 
+
 class Sitemap_Action extends Typecho_Widget implements Widget_Interface_Do
 {
 	public function action()
