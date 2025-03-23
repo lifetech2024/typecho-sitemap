@@ -13,3 +13,4 @@
 2.修改 `date_default_timezone_set('Asia/Shanghai');`   **注释：('')中填写php时区名称**
 
 3.上传至/usr/plugins/目录，插件文件夹必须为Sitemap
+![b_910b848239adbc22f76b297716228f55.jpg](https://lsky.southz.top/IyVLkA.jpg)
